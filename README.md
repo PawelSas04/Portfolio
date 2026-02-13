@@ -10,7 +10,7 @@ Szukam stażu lub roli Junior w Data / BI ( Warszawa, stacjonarnie/ hybrydowo/ z
 ### Power BI :
 1. Analiza wyników finansowych na tle 10,000 największych spółek w Polsce.
 
-Link do repozytoruium : 
+Link do repozytoruium : https://github.com/PawelSas04/powerBi-emis-alior-analysis
   
 ## Umiejętności 
 - SQL (podstawy)
