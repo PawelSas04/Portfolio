@@ -21,7 +21,7 @@ Note: Raw data and the PBIX file aren’t shared due to EMIS academic licensing 
 - Python (podstawy)
 
 ## Kontakt
-Linkedln: https://www.linkedin.com/in/pawe%C5%82-saskiewicz-4588a934b
+LinkedIn: https://www.linkedin.com/in/pawe%C5%82-saskiewicz-4588a934b
 
 
 
