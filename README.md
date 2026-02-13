@@ -1,6 +1,3 @@
-# Portfolio-
-Data Science/ Data/ BI  portfolio: SQL, Power BI, Excel, Python
-
 # PawelSas04
 Junior Data Analyst / BI Intern (Warsaw) 
 SQL, Power BI, Excel, Python(basics)
@@ -10,9 +7,10 @@ Jestem studentem 2. roku Data Science w ekonomii. Skupiam się na praktycznej an
 Szukam stażu lub roli Junior w Data / BI ( Warszawa, stacjonarnie/ hybrydowo/ zdalnie), z docelowym rozwojem w Data Science i ML.
 
 ## Projekty
-## Power BI :
+### Power BI :
 1. Analiza wyników finansowych na tle 10,000 największych spółek w Polsce.
-   - Link do repozytoruium :
+
+Link do repozytoruium : 
   
 ## Umiejętności 
 - SQL (podstawy)
