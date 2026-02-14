@@ -13,6 +13,13 @@ Link do repozytoruium : https://github.com/PawelSas04/powerBi-emis-alior-analysi
 
 Note: Raw data and the PBIX file aren’t shared due to EMIS academic licensing restrictions—this repository contains screenshots and documentation only.  
 
+### Excel 
+1. One-pager (dashboard) w Excelu — analiza wyników finansowych Alior Bank S.A. na tle TOP 10 000 spółek w Polsce (EMIS, 2022–2024).
+
+Link do repozytorium: 
+
+Note : Raw data and the Excel file aren’t shared due to EMIS academic licensing restrictions—this repository contains screenshots and documentation only.
+
 ## Umiejętności 
 - SQL (podstawy)
 - Power BI (Power Query, podstawy DAX, dashboardy)
