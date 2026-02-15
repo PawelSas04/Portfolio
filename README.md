@@ -11,7 +11,7 @@ Szukam stażu lub roli Junior w Data / BI ( Warszawa, stacjonarnie/ hybrydowo/ z
 
 Link do repozytoruium : https://github.com/PawelSas04/powerBi-emis-alior-analysis
 
-Note: Raw data and the PBIX file aren’t shared due to EMIS academic licensing restrictions—this repository contains screenshots and documentation only.  
+ Note: Raw data and the PBIX file aren’t shared due to EMIS academic licensing restrictions—this repository contains screenshots and documentation only 
 
 ### Excel: 
 
@@ -19,7 +19,7 @@ Note: Raw data and the PBIX file aren’t shared due to EMIS academic licensing 
 
 Link do repozytorium: https://github.com/PawelSas04/excel-emis-alior-one-pager
 
-Note : Raw data and the Excel file aren’t shared due to EMIS academic licensing restrictions—this repository contains screenshots and documentation only.
+Note: Raw data and the original Excel file aren’t shared due to EMIS academic licensing restrictions — screenshots and a PDF export are available in the repository.
 
 ## Umiejętności 
 - SQL (podstawy)
