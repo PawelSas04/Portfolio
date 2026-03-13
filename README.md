@@ -29,7 +29,7 @@ Note: Raw data and the original Excel file aren’t shared due to EMIS academic 
 
 2. Tic-tac-toe game (Python)
 
-   - Link do repozytorium : https://github.com/PawelSas04/python-tic-tac-toe-game
+- Link do repozytorium : https://github.com/PawelSas04/python-tic-tac-toe-game
 
 ## Umiejętności 
 - SQL (podstawy)
